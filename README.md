@@ -28,7 +28,8 @@ print(C)
 
 ## Output:
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/dda5bc76-d406-422c-beb0-9936574aafe1)
+
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
